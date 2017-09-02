@@ -6,7 +6,7 @@ Notes
 This is a the original [dissent1's SFE patch](https://github.com/lede-project/source/pull/1269) that works with lede-17.01@a006b48 branch.
 Modifications:
 * remove all kernel `config-4.9` entries
-* modify path of kernel `config-4.9` patches
+* modify path of kernel `config-4.4` patches
 
 How to use
 ----------
